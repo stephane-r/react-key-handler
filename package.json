@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ayrton/react-key-handler.git"
+    "url": "git://github.com/stephane-r/react-key-handler.git"
   },
   "bugs": {
     "url": "https://github.com/ayrton/react-key-handler/issues"
